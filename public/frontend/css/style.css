@@ -568,8 +568,8 @@ header {
 }
 
 .book-card {
-  display: flex;
-  flex-direction: column;
+  display: block;
+  
   border-radius: 5px;
   padding: 0rem 1.2rem 1.2rem 1.2rem;
   overflow: hidden;

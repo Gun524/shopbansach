@@ -9,17 +9,17 @@
 	<link rel="preconnect" href="{{asset('https://fonts.gstatic.com')}}" crossorigin />
 	<link href="{{asset('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,400;1,500;1,700;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,800;1,300;1,400;1,500;1,600&display=swap')}}" rel="stylesheet" />
 
-	<link rel="stylesheet" href="{{asset('public/frontend/css/general.css')}}" />
-	<link rel="stylesheet" href="{{asset('public/frontend/css/style.css')}}" />
-	<link rel="stylesheet" href="{{asset('public/frontend/css/query.css')}}" />
-	<link rel="stylesheet" href="{{asset('public/frontend/css/book.css')}}" />
-    <link rel="stylesheet" href="{{asset('public/frontend/css/detail.css')}}" />
-	<link rel="stylesheet" href="{{asset('public/frontend/css/cart.css')}}" />
-    <link rel="stylesheet" href="{{asset('public/frontend/css/authentication.css')}}" />
-    <link rel="stylesheet" href="{{asset('public/frontend/css/user-form.css')}}" />
+	<link rel="stylesheet" href="{{asset('frontend/css/general.css')}}" />
+	<link rel="stylesheet" href="{{asset('frontend/css/style.css')}}" />
+	<link rel="stylesheet" href="{{asset('frontend/css/query.css')}}" />
+	<link rel="stylesheet" href="{{asset('frontend/css/book.css')}}" />
+    <link rel="stylesheet" href="{{asset('frontend/css/detail.css')}}" />
+	<link rel="stylesheet" href="{{asset('frontend/css/cart.css')}}" />
+    <link rel="stylesheet" href="{{asset('frontend/css/authentication.css')}}" />
+    <link rel="stylesheet" href="{{asset('frontend/css/user-form.css')}}" />
     <link href="{{asset('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css')}}" rel="stylesheet">
 
-	<script type="module" defer src="{{asset('public/frontend/scripts/index.js')}}"></script>
+	<script type="module"  src="{{asset('frontend/scripts/index.js')}}"></script>
 	<title>The BookSale</title>
 </head>
 
@@ -90,7 +90,7 @@
 
 
 						<li class="main-nav-item dropdown hide">
-							<a class="user header-link dropdown-toggle" href="#"><img class="profile-img" src="{{asset('public/frontend/imgs/user.png')}}" alt="User's profile photo" /></a>
+							<a class="user header-link dropdown-toggle" href="#"><img class="profile-img" src="{{asset('frontend/imgs/user.png')}}" alt="User's profile photo" /></a>
 							<ul class="user-list dropdown-menu">
 								<li>
 									<a class="user-list__link" href="{{URL::to('/user-profile')}}">Thông tin cá nhân</a>
@@ -136,15 +136,15 @@
 			<div class="slider-container">
 				<div class="slider">
 					<div class="slide">
-						<img class="slider-img" src="{{asset('public/frontend/imgs/slider/banner0.png')}}" alt="New books" />
+						<img class="slider-img" src="{{asset('frontend/imgs/slider/banner0.png')}}" alt="New books" />
 					</div>
 
 					<div class="slide">
-						<img class="slider-img" src="{{asset('public/frontend/imgs/slider/banner1.jpeg')}}" alt="non-fiction" />
+						<img class="slider-img" src="{{asset('frontend/imgs/slider/banner1.jpeg')}}" alt="non-fiction" />
 					</div>
 
 					<div class="slide">
-						<img class="slider-img" src="{{asset('public/frontend/imgs/slider/banner2.jpeg')}}" alt="Best seller" />
+						<img class="slider-img" src="{{asset('frontend/imgs/slider/banner2.jpeg')}}" alt="Best seller" />
 					</div>
 				</div>
 
@@ -217,10 +217,10 @@
 
 	<script type="module" src="{{asset('https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js')}}"></script>
 	<script nomodule src="{{asset('https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js')}}"></script>
-	<script defer src="{{asset('public/frontend/scripts/detail.js')}}"></script>
-	<script defer src="{{asset('public/frontend/scripts/index.js')}}"></script>
-  <script defer src="{{asset('public/frontend/scripts/user.js')}}"></script>
-  <script defer src="{{asset('public/frontend/scripts/cart.js')}}"></script>
+	<script defer src="{{asset('frontend/scripts/detail.js')}}"></script>
+	<script type="module"  defer src="{{asset('frontend/scripts/index.js')}}"></script>
+  <script defer src="{{asset('frontend/scripts/user.js')}}"></script>
+  <script defer src="{{asset('frontend/scripts/cart.js')}}"></script>
   
 
 </body>

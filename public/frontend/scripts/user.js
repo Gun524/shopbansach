@@ -51,16 +51,20 @@ populateOptions(
 
 // Event listener for province select element
 const provinceSelect = document.getElementById("province");
+if(provinceSelect){
 provinceSelect.addEventListener("change", () => {
   const selectedProvinceCode = provinceSelect.value;
   const apiUrl = `https://provinces.open-api.vn/api/p/${selectedProvinceCode}?depth=2`;
   populateOptions(apiUrl, "district", "Chọn quận (huyện)");
 });
+}
 
 // Event listener for district select element
 const districtSelect = document.getElementById("district");
+if(districtSelect){
 districtSelect.addEventListener("change", () => {
   const selectedDistrictCode = districtSelect.value;
   const apiUrl = `https://provinces.open-api.vn/api/d/${selectedDistrictCode}?depth=2`;
   populateOptions(apiUrl, "ward", "Chọn phường (xã)");
 });
+}
