@@ -60,7 +60,7 @@
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
                             <a href="{{URL::to('/details-book')}}">
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                             </a>
                         </div>
                         <div class="card-body">
@@ -79,7 +79,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book4.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book4.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">
@@ -99,7 +99,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book4.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book4.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">
@@ -119,7 +119,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book4.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book4.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">
@@ -139,7 +139,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book4.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book4.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">
@@ -160,7 +160,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">Cây cam ngọt của tôi</p>
@@ -178,7 +178,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">Cây cam ngọt của tôi</p>
@@ -196,7 +196,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">Cây cam ngọt của tôi</p>
@@ -214,7 +214,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">Cây cam ngọt của tôi</p>
@@ -232,7 +232,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">Cây cam ngọt của tôi</p>
@@ -250,7 +250,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">Cây cam ngọt của tôi</p>
@@ -268,7 +268,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">Cây cam ngọt của tôi</p>
@@ -286,7 +286,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">Cây cam ngọt của tôi</p>
@@ -304,7 +304,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">Cây cam ngọt của tôi</p>
@@ -322,7 +322,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">Cây cam ngọt của tôi</p>
@@ -340,7 +340,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">Cây cam ngọt của tôi</p>
@@ -358,7 +358,7 @@
                     <a href="book-detail.html" class="book-link">
                         <span class="discount-tag">-30%</span>
                         <div class="img-container">
-                            <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                            <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                         </div>
                         <div class="card-body">
                             <p class="card-title">Cây cam ngọt của tôi</p>

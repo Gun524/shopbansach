@@ -23,7 +23,7 @@
                     <div class="top-book">
                         <div class="tb-img-box">
                             <a href="{{URL::to('/details-book')}}">
-                                <img class="tb-img" src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Cây cam ngọt của tôi" />
+                                <img class="tb-img" src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Cây cam ngọt của tôi" />
                             </a>
                         </div>
                         <div class="tb-text-box">
@@ -33,7 +33,7 @@
                     </div>
                     <div class="top-book">
                         <div class="tb-img-box">
-                            <img class="tb-img" src="{{asset('frontend/imgs/top-books/book2.jpeg')}}" alt="Cây cam ngọt của tôi" />
+                            <img class="tb-img" src="{{asset('public/frontend/imgs/top-books/book2.jpeg')}}" alt="Cây cam ngọt của tôi" />
                         </div>
                         <div class="tb-text-box">
                             <p class="tb-title">Toto-chan bên cửa sổ</p>
@@ -42,7 +42,7 @@
                     </div>
                     <div class="top-book">
                         <div class="tb-img-box">
-                            <img class="tb-img" src="{{asset('frontend/imgs/top-books/book3.jpeg')}}" alt="Cây cam ngọt của tôi" />
+                            <img class="tb-img" src="{{asset('public/frontend/imgs/top-books/book3.jpeg')}}" alt="Cây cam ngọt của tôi" />
                         </div>
                         <div class="tb-text-box">
                             <p class="tb-title">Lược sử kinh tế học</p>
@@ -51,7 +51,7 @@
                     </div>
                     <div class="top-book">
                         <div class="tb-img-box">
-                            <img class="tb-img" src="{{asset('frontend/imgs/top-books/book4.jpeg')}}" alt="Cây cam ngọt của tôi" />
+                            <img class="tb-img" src="{{asset('public/frontend/imgs/top-books/book4.jpeg')}}" alt="Cây cam ngọt của tôi" />
                         </div>
                         <div class="tb-text-box">
                             <p class="tb-title">Đắc nhân tâm</p>
@@ -60,7 +60,7 @@
                     </div>
                     <div class="top-book">
                         <div class="tb-img-box">
-                            <img class="tb-img" src="{{asset('frontend/imgs/top-books/book5.jpeg')}}" alt="Cây cam ngọt của tôi" />
+                            <img class="tb-img" src="{{asset('public/frontend/imgs/top-books/book5.jpeg')}}" alt="Cây cam ngọt của tôi" />
                         </div>
                         <div class="tb-text-box">
                             <p class="tb-title">Số đỏ</p>
@@ -91,7 +91,7 @@
                             <div class="bs-img-box" role="img" aria-label="Ảnh bìa tiểu thuyết"></div>
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -107,7 +107,7 @@
 
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -123,7 +123,7 @@
 
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -138,7 +138,7 @@
                             </div>
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book2.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book2.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -153,7 +153,7 @@
                             </div>
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book3.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book3.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -195,7 +195,7 @@
                             <div class="bs-img-box" role="img" aria-label="Ảnh bìa tiểu thuyết"></div>
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -211,7 +211,7 @@
 
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -227,7 +227,7 @@
 
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -242,7 +242,7 @@
                             </div>
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -257,7 +257,7 @@
                             </div>
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -299,7 +299,7 @@
                             <div class="bs-img-box" role="img" aria-label="Ảnh bìa tiểu thuyết"></div>
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -315,7 +315,7 @@
 
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -331,7 +331,7 @@
 
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -346,7 +346,7 @@
                             </div>
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
@@ -361,7 +361,7 @@
                             </div>
                             <div class="book-card">
                                 <span class="discount-tag">-30%</span>
-                                <img src="{{asset('frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
+                                <img src="{{asset('public/frontend/imgs/top-books/book1.jpeg')}}" alt="Book Cover" class="card-img" />
                                 <div class="card-body">
                                     <h3 class="card-title">Cây cam ngọt của tôi</h3>
                                     <div class="rating" class="card-rating">
