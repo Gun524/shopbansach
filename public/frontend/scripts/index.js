@@ -161,9 +161,12 @@ function listPage() {
   }
 
 }
+if(btnnext){
 btnnext.addEventListener("click", () => changePage(thisPage + 1));
+}
+if(btnprev){
 btnprev.addEventListener("click", () => changePage(thisPage - 1));
-
+}
 function changePage(i) {
   thisPage = i;
   
